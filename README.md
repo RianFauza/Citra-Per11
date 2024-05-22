@@ -8,12 +8,12 @@ Aplikasi ini adalah sebuah aplikasi sederhana yang memanipulasi gambar menggunak
 
 1. Clone repositori ini ke lokal Anda.
    ```shell
-   git clone https://github.com/USERNAME/REPOSITORY_NAME.git
+   git clone https://github.com/RianFauza/Citra-Per11.git
    ```
 
 2. Masuk ke direktori proyek.
    ```shell
-   cd REPOSITORY_NAME
+   cd citra
    ```
 
 3. Instal semua dependensi yang diperlukan.
