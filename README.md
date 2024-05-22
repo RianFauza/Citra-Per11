@@ -13,7 +13,7 @@ Aplikasi ini adalah sebuah aplikasi sederhana yang memanipulasi gambar menggunak
 
 2. Masuk ke direktori proyek.
    ```shell
-   cd citra
+   cd Citra
    ```
 
 3. Instal semua dependensi yang diperlukan.
